@@ -268,9 +268,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@ahmedalaayq](https://github.com/ahmedalaayq)
+- Email: ahmed.alaayq@gmail.com
 
 ## 🙏 Acknowledgments
 
@@ -282,13 +281,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you like this project, please ⭐ star this repository!
 
-Found a bug or have a feature request? [Open an issue](https://github.com/yourusername/flutter-calculator/issues)
-
-## 🔗 Related Projects
-
-- [Flutter Examples](https://github.com/flutter/samples)
-- [Awesome Flutter](https://github.com/Solido/awesome-flutter)
-
+Found a bug or have a feature request? [Open an issue](https://github.com/ahmedalaayq/calculator/issues)
 ---
 
 <div align="center">
